@@ -6,7 +6,7 @@
 # catalog-version 2.0
 Name:		texlive-brandeis-dissertation
 Version:	2.0
-Release:	4
+Release:	5
 Summary:	Class for Brandeis University dissertations
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/brandeis-dissertation
