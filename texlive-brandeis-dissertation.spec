@@ -1,6 +1,6 @@
 Name:		texlive-brandeis-dissertation
 Version:	61215
-Release:	1
+Release:	2
 Summary:	Class for Brandeis University dissertations
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/brandeis-dissertation
