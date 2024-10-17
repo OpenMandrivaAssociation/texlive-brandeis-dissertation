@@ -3,7 +3,7 @@ Version:	67935
 Release:	1
 Summary:	Class for Brandeis University dissertations
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/brandeis-dissertation
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/brandeis-dissertation
 License:	LPPL1.2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/brandeis-dissertation.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/brandeis-dissertation.doc.r%{version}.tar.xz
